@@ -1,2 +1,2 @@
-# git_practice_assignmnet
+# Gitassignment
 Prime Problem and Palindrome problem 
